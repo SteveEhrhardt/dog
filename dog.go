@@ -8,7 +8,7 @@ import (
 func WhenGrownUp(s string) string {
 	fmt.Println("Value of s", s)
 	if strings.TrimSpace(s) == "" {
-		s = "I am not Mahala the adult"
+		s = "I AM Mahala the adult"
 	}
 	fmt.Println("Value of s", s)
 
